@@ -23,6 +23,8 @@ namespace ProvaGithub
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine( "Hola que tal ");
         }
     }
 }
