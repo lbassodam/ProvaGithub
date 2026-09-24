@@ -26,6 +26,7 @@ namespace ProvaGithub
 
             Console.WriteLine( "Hola que tal ");
             Console.WriteLine("Molt be y tu");
+            Console.WriteLine();
         }
     }
 }
